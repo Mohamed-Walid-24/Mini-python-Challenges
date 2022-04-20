@@ -1,1 +1,1 @@
-# Mini-python-Challenges![kisspng-robot-logo-shape-encapsulated-postscript-5ae44847dc4102 2547515315249101519022](https://user-images.githubusercontent.com/101296170/164322047-de9602b8-1708-4420-82b2-db0c3a9d1bdd.jpg)
+# Mini-python-Challenges!
